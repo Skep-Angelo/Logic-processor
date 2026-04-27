@@ -1,0 +1,6 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\Angelo Apenkwah\Desktop\Projects\Logic processor\Draft5.net
+Start Time: Thu Apr 23 12:57:30 2026
+C:\Users\Angelo Apenkwah\Desktop\Projects\Logic processor\Draft5.net(4): Undefined model "sw".
+S1 0 N002 P001 0 SW
+                 ^^

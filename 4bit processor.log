@@ -1,0 +1,125 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\Angelo Apenkwah\Desktop\Projects\Logic processor\4bit processor.net
+Start Time: Sun Apr 26 13:01:50 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+WARNING: Node n066 is floating.
+WARNING: Node n068 is floating.
+WARNING: Node n072 is floating.
+WARNING: Node n080 is floating.
+WARNING: Node n077 is floating.
+WARNING: Node n092 is floating.
+WARNING: Node n084 is floating.
+WARNING: Node n106 is floating.
+WARNING: Node n090 is floating.
+WARNING: Node n116 is floating.
+WARNING: Node n688 is floating.
+WARNING: Node n689 is floating.
+WARNING: Node n690 is floating.
+WARNING: Node n691 is floating.
+WARNING: Node n692 is floating.
+WARNING: Node n682 is floating.
+WARNING: Node n681 is floating.
+WARNING: Node n680 is floating.
+WARNING: Node n679 is floating.
+WARNING: Node n678 is floating.
+WARNING: Node n385 is floating.
+WARNING: Node n386 is floating.
+WARNING: Node n387 is floating.
+WARNING: Node n388 is floating.
+WARNING: Node n389 is floating.
+WARNING: Node n322 is floating.
+WARNING: Node n324 is floating.
+WARNING: Node n328 is floating.
+WARNING: Node n336 is floating.
+WARNING: Node n333 is floating.
+WARNING: Node n353 is floating.
+WARNING: Node n340 is floating.
+WARNING: Node n366 is floating.
+WARNING: Node n350 is floating.
+WARNING: Node n412 is floating.
+WARNING: Node n693 is floating.
+WARNING: Node n694 is floating.
+WARNING: Node n695 is floating.
+WARNING: Node n696 is floating.
+WARNING: Node n697 is floating.
+WARNING: Node n702 is floating.
+WARNING: Node n701 is floating.
+WARNING: Node n700 is floating.
+WARNING: Node n699 is floating.
+WARNING: Node n698 is floating.
+WARNING: Node n703 is floating.
+WARNING: Node n704 is floating.
+WARNING: Node n705 is floating.
+WARNING: Node n706 is floating.
+WARNING: Node n707 is floating.
+WARNING: Node n687 is floating.
+WARNING: Node n686 is floating.
+WARNING: Node n685 is floating.
+WARNING: Node n684 is floating.
+WARNING: Node n683 is floating.
+WARNING: Node n673 is floating.
+WARNING: Node n674 is floating.
+WARNING: Node n675 is floating.
+WARNING: Node n676 is floating.
+WARNING: Node n677 is floating.
+WARNING: Node n028 is floating.
+WARNING: Node n033 is floating.
+WARNING: Node n036 is floating.
+WARNING: Node n039 is floating.
+WARNING: Node n026 is floating.
+WARNING: Node n145 is floating.
+WARNING: Node n202 is floating.
+WARNING: Node n204 is floating.
+WARNING: Node n151 is floating.
+WARNING: Node n207 is floating.
+WARNING: Node n210 is floating.
+WARNING: Node n162 is floating.
+WARNING: Node n215 is floating.
+WARNING: Node n217 is floating.
+WARNING: Node n175 is floating.
+WARNING: Node n230 is floating.
+WARNING: Node n234 is floating.
+WARNING: Node n185 is floating.
+WARNING: Node n245 is floating.
+WARNING: Node n250 is floating.
+WARNING: Node n089 is floating.
+WARNING: Node n081 is floating.
+WARNING: Node n075 is floating.
+WARNING: Node n095 is floating.
+WARNING: Node n667 is floating.
+WARNING: Node n669 is floating.
+WARNING: Node n666 is floating.
+WARNING: Node n668 is floating.
+WARNING: Node n672 is floating.
+WARNING: Node n671 is floating.
+WARNING: Node n670 is floating.
+WARNING: Node n448 is floating.
+WARNING: Node n480 is floating.
+WARNING: Node n453 is floating.
+WARNING: Node n483 is floating.
+WARNING: Node n459 is floating.
+WARNING: Node n491 is floating.
+WARNING: Node n464 is floating.
+WARNING: Node n497 is floating.
+WARNING: Node n469 is floating.
+WARNING: Node n505 is floating.
+WARNING: Node n115 is floating.
+WARNING: Node n113 is floating.
+WARNING: Node n105 is floating.
+WARNING: Node n121 is floating.
+WARNING: Node n059 is floating.
+WARNING: Node n058 is floating.
+WARNING: Node n056 is floating.
+WARNING: Node n062 is floating.
+WARNING: Node n641 is floating.
+
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 2.246 seconds.
+
+Files loaded:
+C:\Users\Angelo Apenkwah\Desktop\Projects\Logic processor\4bit processor.net
+
