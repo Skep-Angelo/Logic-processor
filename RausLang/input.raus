@@ -1,0 +1,7 @@
+ADD A B C
+SUB D A E
+EQU A B C
+AND C B A
+IF A
+ADD A B C
+END
