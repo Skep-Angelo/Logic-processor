@@ -1,0 +1,1 @@
+time	V(bit1)	V(bit2)	V(bit3)	V(bit4)	V(bit5)	V(ctrl)
